@@ -91,4 +91,10 @@ This project serves as both a learning resource and a template for implementing 
 ### 4. Prometheus and Grafana
 ![prometheus-dashboard](https://github.com/user-attachments/assets/8fb0e8e6-5289-403f-ac3b-cb6a8bf06796)
 
+## Thoughts
+Since i used free credits in Google cloud i spent IDR 45k for running entire service in 3 days, only shutdown vm in nights and booting up again in morning, cluster running in all 3 days. While it's should more expensive since i get discount here 😂
+![image](https://github.com/user-attachments/assets/13c0aca4-f044-4d68-ab3f-5c88a740bcb7)
+
+![image](https://github.com/user-attachments/assets/58a226e3-a310-41ac-8936-25ec5ff9fc05)
+
 
